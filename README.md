@@ -6,28 +6,28 @@
 </p>
 
 
-
 ---
 
 <p align="center"><b>
-  IT Student • Web Developer • Internship Seeker • Stargazer
+  IT Student • Web & Mobile Developer • Internship Seeker • Stargazer
 </b></p>
 
 ---
 
 ## 🌠 About Me
 - 🎓 IT student specializing in **Information Systems Development**
-- 💡 Enthusiast for **Web Development, Software Engineering, and Astronomy**
-- 🛸 Currently exploring **Angular, Spring Boot, Java, and C#**
-- ✨ My website <a href="https://anashmidan.studio/" target="_blank">anashmidan.studio</a> features a moving star background and floating titles—check it out!
+- 💡 Enthusiast for **Web & Mobile Development**, Software Engineering, and Astronomy
+- 📱 Currently exploring **Mobile Development**—especially interested in internships in this field!
+- ✨ My website <a href="https://anashmidan.studio/" target="_blank">anashmidan.studio</a> Check it out!
 
 ## 🧑‍💻 Skills & Technologies
 ```yaml
-Front-end:  Vue.js, Bootstrap, HTML, CSS, JavaScript
-Back-end:   Laravel, PHP, Spring Boot
-Database:   MySQL
-Tools:      Git, GitHub, Laragon
+Front-end:  Vue.js, React.js, JavaScript, Bootstrap/tailwind
+Back-end:   Laravel, Spring Boot, Node.js
+Mobile:    Flutter, React Native
+
 ```
+*(Feel free to add any mobile frameworks or languages you know!)*
 
 ## 🌟 Experience Highlights
 - 🌐 **Internship @ Designet Web Agency** — Laravel & Bootstrap
@@ -35,10 +35,12 @@ Tools:      Git, GitHub, Laragon
 
 ## 🔭 Currently Exploring
 - 🪐 Building with React for my next adventure
-- 🤖 AI chatbots for environmental sustainability
+- 📱 Mobile development—eager to work on real-world apps!
+
 
 ## 🚀 Actively Seeking Internship!
-- 🌌 I’m searching for an internship in IT/Web Development—excited to join a creative, future-facing team!
+- 📱 **Preference for Mobile Development Internships!**
+- 🌌 Open to IT/Web Development opportunities as well—excited to join a creative, future-facing team!
 - 🛰️ Always open to collaboration, learning, and new challenges.
 
 ---
@@ -51,7 +53,7 @@ Tools:      Git, GitHub, Laragon
   </a>
   &nbsp;|&nbsp;
   <a href="https://anashmidan.studio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=browser" alt="Portfolio" />
   </a>
 </p>
 
