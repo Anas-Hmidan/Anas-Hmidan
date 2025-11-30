@@ -1,66 +1,64 @@
-<h1 align="center">
-  🌌 Hey, I'm Anas Hmidan! 🚀
-</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anas-Hmidan&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+#!/usr/bin/env bash
+# ============================================================================
+#  █████╗ ███╗   ██╗ █████╗ ███████╗    ██╗  ██╗███╗   ███╗██╗██████╗  █████╗ ███╗   ██╗
+# ██╔══██╗████╗  ██║██╔══██╗██╔════╝    ██║  ██║████╗ ████║██║██╔══██╗██╔══██╗████╗  ██║
+# ███████║██╔██╗ ██║███████║███████╗    ███████║██╔████╔██║██║██║  ██║███████║██╔██╗ ██║
+# ██╔══██║██║╚██╗██║██╔══██║╚════██║    ██╔══██║██║╚██╔╝██║██║██║  ██║██╔══██║██║╚██╗██║
+# ██║  ██║██║ ╚████║██║  ██║███████║    ██║  ██║██║ ╚═╝ ██║██║██████╔╝██║  ██║██║ ╚████║
+# ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+# ============================================================================
 
+echo "🚀 Booting Anas Hmidan's system..."
+sleep 1
 
----
+cat << "EOF"
+    ┌─┐┬ ┬┌┬┐┌─┐┌─┐┬┌─┌─┐┬─┐
+    │  ├─┤ │ ├┤ │ │├┴┐│ │├┬┘  
+    └─┘┴ ┴ ┴ └─┘└─┘┴ ┴└─┘┴└─
+    FULL-STACK DEVELOPER
+EOF
 
-<p align="center"><b>
-  IT Student • Web & Mobile Developer • Internship Seeker • Stargazer
-</b></p>
+echo ""
+echo "🎯 CURRENT MISSION: Mastering Advanced Python & Full-Stack"
+echo "🔥 STATUS: Ready for Big Challenges"
+echo ""
 
----
+# ============================================================================
+# 🛠️  TECH STACK
+# ============================================================================
 
-## 🌠 About Me
-- 🎓 IT student specializing in **Information Systems Development**
-- 💡 Enthusiast for **Web & Mobile Development**, Software Engineering, and Astronomy
-- 📱 Currently exploring **Mobile Development**—especially interested in internships in this field!
-- ✨ My website <a href="https://anashmidan.studio/" target="_blank">anashmidan.studio</a> Check it out!
+echo "💻 ACTIVE TECHNOLOGY STACK:"
 
-## 🧑‍💻 Skills & Technologies
-```yaml
-Front-end:  Vue.js, React.js, JavaScript, Bootstrap/tailwind
-Back-end:   Laravel, Spring Boot, Node.js
-Mobile:    Flutter, React Native
+echo "🎨 FRONTEND:"
+echo "   ⚛️  React ............ [██████████] 95%"
+echo "   🅰️  Angular .......... [████████░░] 80%"  
+echo "   🟢 Vue ............... [█████████░] 85%"
 
-```
-*(Feel free to add any mobile frameworks or languages you know!)*
+echo "⚙️  BACKEND:"
+echo "   ☕ Spring Boot ....... [█████████░] 88%"
+echo "   🟢 Node.js ........... [██████████] 92%"
+echo "   🐘 Laravel ........... [████████░░] 82%"
 
-## 🌟 Experience Highlights
-- 🌐 **Internship @ Designet Web Agency** — Laravel & Bootstrap
-- 🚗 **Carpooling Website Project** — Angular & Spring Boot
+echo "🐍 PYTHON:"
+echo "   🤖 AI/ML ............ [████████░░] 84%"
+echo "   🔧 Development ....... [██████████] 91%"
 
-## 🔭 Currently Exploring
-- 🪐 Building with React for my next adventure
-- 📱 Mobile development—eager to work on real-world apps!
+echo ""
+echo "🚀 SPECIALIZATIONS:"
+echo "   ✅ Multi-Framework Expertise"
+echo "   ✅ Scalable Architecture" 
+echo "   ✅ Performance Optimization"
+echo "   ✅ Rapid Learning & Adaptation"
 
+# ============================================================================
+# 📡 CONNECT
+# ============================================================================
 
-## 🚀 Actively Seeking Internship!
-- 📱 **Preference for Mobile Development Internships!**
-- 🌌 Open to IT/Web Development opportunities as well—excited to join a creative, future-facing team!
-- 🛰️ Always open to collaboration, learning, and new challenges.
+echo ""
+echo "📡 CONNECT WITH ME:"
+echo "   💼 LinkedIn: www.linkedin.com/in/anas-hmidan"
+echo "   📧 Email:    anas.hmidan@djerba.r-iset.tn"
 
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anas-hmidan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://anashmidan.studio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=browser" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>
-    <em>"Exploring code and the cosmos, one star at a time."</em>
-  </sub>
-</p>
+echo ""
+echo "💫 Ready to build something amazing? Let's connect!"
+echo "🎮 TYPE 'START' TO BEGIN OUR NEXT ADVENTURE..."
