@@ -1,5 +1,3 @@
-<!-- Replace every Anas-Hmidan / Anas Hmidan / placeholder below -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anas Hmidan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20ISLAIB&descAlignY=58&descSize=20" alt="header"/>
@@ -65,24 +63,6 @@ class Me:
 | **Workflow** | Jupyter · Git · VS Code |
 
 ---
-
-
-## 📈 The numbers (yes, I checked)
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anas-Hmidan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Hmidan&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Hmidan&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
-
-</div>
-
-
-
-<div align="center">
 
 > *"In God we trust. All others must bring data."* — attributed to W. Edwards Deming
 
