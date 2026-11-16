@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Data Science at ISLAIB">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#12263a"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#1e293b" stroke-width="1"/></pattern>
+</defs>
+<rect width="900" height="280" rx="14" fill="url(#bg)"/>
+<rect width="900" height="280" rx="14" fill="url(#grid)" opacity="0.6"/>
+<line x1="520" y1="250" x2="880" y2="250" stroke="#334155" stroke-width="1.5"/>
+<line x1="520" y1="25" x2="520" y2="250" stroke="#334155" stroke-width="1.5"/>
+<circle r="4" cx="554.6" cy="147.9" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.33s" fill="freeze"/>
+<animate attributeName="cx" from="554.6" to="542.9" begin="1.53s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="147.9" to="224.6" begin="1.53s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.53s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="702.5" cy="38.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.39s" fill="freeze"/>
+<animate attributeName="cx" from="702.5" to="547.0" begin="1.59s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="38.2" to="226.8" begin="1.59s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.59s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="811.1" cy="57.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.20s" fill="freeze"/>
+<animate attributeName="cx" from="811.1" to="554.5" begin="1.40s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="57.2" to="219.3" begin="1.40s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.40s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="852.2" cy="157.0" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.36s" fill="freeze"/>
+<animate attributeName="cx" from="852.2" to="568.5" begin="1.56s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="157.0" to="208.1" begin="1.56s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.56s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="628.5" cy="61.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.11s" fill="freeze"/>
+<animate attributeName="cx" from="628.5" to="580.0" begin="1.31s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="61.7" to="219.6" begin="1.31s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.31s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="807.5" cy="69.8" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.52s" fill="freeze"/>
+<animate attributeName="cx" from="807.5" to="579.3" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="69.8" to="202.8" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.72s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="551.3" cy="43.1" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.19s" fill="freeze"/>
+<animate attributeName="cx" from="551.3" to="590.6" begin="1.39s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="43.1" to="178.3" begin="1.39s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.39s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="675.4" cy="99.1" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.53s" fill="freeze"/>
+<animate attributeName="cx" from="675.4" to="598.4" begin="1.73s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="99.1" to="197.5" begin="1.73s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.73s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="767.7" cy="83.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.52s" fill="freeze"/>
+<animate attributeName="cx" from="767.7" to="603.0" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="83.7" to="176.4" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.72s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="827.5" cy="190.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.26s" fill="freeze"/>
+<animate attributeName="cx" from="827.5" to="611.2" begin="1.46s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="190.5" to="201.4" begin="1.46s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.46s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="787.4" cy="63.4" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.44s" fill="freeze"/>
+<animate attributeName="cx" from="787.4" to="624.0" begin="1.64s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="63.4" to="183.0" begin="1.64s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.64s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="757.2" cy="198.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.52s" fill="freeze"/>
+<animate attributeName="cx" from="757.2" to="620.1" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="198.2" to="184.1" begin="1.72s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.72s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="732.1" cy="157.6" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.41s" fill="freeze"/>
+<animate attributeName="cx" from="732.1" to="637.4" begin="1.61s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="157.6" to="158.5" begin="1.61s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.61s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="851.2" cy="134.3" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.60s" fill="freeze"/>
+<animate attributeName="cx" from="851.2" to="644.3" begin="1.80s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="134.3" to="181.3" begin="1.80s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.80s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="867.7" cy="210.8" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.26s" fill="freeze"/>
+<animate attributeName="cx" from="867.7" to="642.3" begin="1.46s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="210.8" to="158.2" begin="1.46s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.46s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="757.3" cy="35.0" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.42s" fill="freeze"/>
+<animate attributeName="cx" from="757.3" to="653.5" begin="1.62s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="35.0" to="140.3" begin="1.62s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.62s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="791.2" cy="58.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.22s" fill="freeze"/>
+<animate attributeName="cx" from="791.2" to="658.2" begin="1.42s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="58.5" to="159.2" begin="1.42s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.42s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="826.3" cy="47.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.40s" fill="freeze"/>
+<animate attributeName="cx" from="826.3" to="668.2" begin="1.60s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="47.7" to="153.9" begin="1.60s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.60s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="823.8" cy="91.3" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.37s" fill="freeze"/>
+<animate attributeName="cx" from="823.8" to="677.5" begin="1.57s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="91.3" to="164.1" begin="1.57s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.57s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="830.6" cy="240.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.14s" fill="freeze"/>
+<animate attributeName="cx" from="830.6" to="682.5" begin="1.34s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="240.7" to="127.7" begin="1.34s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.34s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="694.9" cy="159.6" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.24s" fill="freeze"/>
+<animate attributeName="cx" from="694.9" to="687.6" begin="1.44s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="159.6" to="142.3" begin="1.44s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.44s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="672.4" cy="111.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.51s" fill="freeze"/>
+<animate attributeName="cx" from="672.4" to="692.9" begin="1.71s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="111.2" to="148.0" begin="1.71s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.71s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="740.0" cy="178.8" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.05s" fill="freeze"/>
+<animate attributeName="cx" from="740.0" to="711.6" begin="1.25s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="178.8" to="123.5" begin="1.25s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.25s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="795.2" cy="222.4" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.72s" fill="freeze"/>
+<animate attributeName="cx" from="795.2" to="718.3" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="222.4" to="111.3" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.92s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="745.7" cy="43.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.06s" fill="freeze"/>
+<animate attributeName="cx" from="745.7" to="719.5" begin="1.26s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="43.7" to="120.3" begin="1.26s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.26s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="585.2" cy="104.8" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.05s" fill="freeze"/>
+<animate attributeName="cx" from="585.2" to="724.6" begin="1.25s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="104.8" to="126.3" begin="1.25s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.25s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="653.6" cy="35.6" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.79s" fill="freeze"/>
+<animate attributeName="cx" from="653.6" to="729.5" begin="1.99s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="35.6" to="123.8" begin="1.99s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.99s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="580.5" cy="85.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.31s" fill="freeze"/>
+<animate attributeName="cx" from="580.5" to="744.2" begin="1.51s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="85.5" to="117.8" begin="1.51s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.51s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="867.7" cy="132.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.44s" fill="freeze"/>
+<animate attributeName="cx" from="867.7" to="748.5" begin="1.64s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="132.5" to="128.9" begin="1.64s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.64s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="564.7" cy="105.4" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.24s" fill="freeze"/>
+<animate attributeName="cx" from="564.7" to="752.5" begin="1.44s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="105.4" to="126.4" begin="1.44s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.44s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="853.3" cy="146.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.13s" fill="freeze"/>
+<animate attributeName="cx" from="853.3" to="768.7" begin="1.33s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="146.2" to="102.1" begin="1.33s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.33s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="539.2" cy="146.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.88s" fill="freeze"/>
+<animate attributeName="cx" from="539.2" to="772.6" begin="2.08s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="146.2" to="101.1" begin="2.08s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="2.08s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="654.7" cy="66.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.69s" fill="freeze"/>
+<animate attributeName="cx" from="654.7" to="783.8" begin="1.89s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="66.7" to="89.8" begin="1.89s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.89s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="794.9" cy="102.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.20s" fill="freeze"/>
+<animate attributeName="cx" from="794.9" to="787.1" begin="1.40s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="102.5" to="81.9" begin="1.40s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.40s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="804.1" cy="210.0" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.67s" fill="freeze"/>
+<animate attributeName="cx" from="804.1" to="797.8" begin="1.87s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="210.0" to="111.4" begin="1.87s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.87s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="706.0" cy="108.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.03s" fill="freeze"/>
+<animate attributeName="cx" from="706.0" to="798.1" begin="1.23s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="108.2" to="83.5" begin="1.23s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.23s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="765.5" cy="240.4" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.40s" fill="freeze"/>
+<animate attributeName="cx" from="765.5" to="803.1" begin="1.60s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="240.4" to="81.6" begin="1.60s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.60s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="865.9" cy="240.1" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.33s" fill="freeze"/>
+<animate attributeName="cx" from="865.9" to="821.3" begin="1.53s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="240.1" to="84.3" begin="1.53s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.53s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="599.5" cy="167.3" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.81s" fill="freeze"/>
+<animate attributeName="cx" from="599.5" to="820.0" begin="2.01s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="167.3" to="76.2" begin="2.01s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="2.01s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="693.0" cy="173.7" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.72s" fill="freeze"/>
+<animate attributeName="cx" from="693.0" to="834.8" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="173.7" to="76.1" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.92s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="796.0" cy="195.0" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.43s" fill="freeze"/>
+<animate attributeName="cx" from="796.0" to="833.0" begin="1.63s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="195.0" to="53.3" begin="1.63s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.63s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="798.3" cy="103.2" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.72s" fill="freeze"/>
+<animate attributeName="cx" from="798.3" to="841.5" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="103.2" to="40.1" begin="1.92s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.92s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="851.9" cy="189.5" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.15s" fill="freeze"/>
+<animate attributeName="cx" from="851.9" to="858.3" begin="1.35s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="189.5" to="45.4" begin="1.35s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.35s" dur="1.6s" fill="freeze"/>
+</circle>
+<circle r="4" cx="581.4" cy="229.1" fill="#64748b" opacity="0">
+<set attributeName="opacity" to="0.95" begin="0.73s" fill="freeze"/>
+<animate attributeName="cx" from="581.4" to="855.5" begin="1.93s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="cy" from="229.1" to="65.3" begin="1.93s" dur="1.6s" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" fill="freeze"/>
+<animate attributeName="fill" from="#64748b" to="#38bdf8" begin="1.93s" dur="1.6s" fill="freeze"/>
+</circle>
+<path d="M540 215 L860 55" pathLength="1" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round" fill="none" stroke-dasharray="1" stroke-dashoffset="1">
+<animate attributeName="stroke-dashoffset" from="1" to="0" begin="2.9s" dur="1.2s" fill="freeze"/>
+</path>
+<text x="545" y="62" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#fbbf24" opacity="0">y = signal + noise
+<animate attributeName="opacity" from="0" to="1" begin="4s" dur="0.6s" fill="freeze"/></text>
+<text x="48" y="118" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="50" font-weight="700" fill="#f8fafc" opacity="0">Anas Hmidan
+<animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.8s" fill="freeze"/></text>
+<text x="48" y="160" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="20" fill="#38bdf8" opacity="0">Data Science Master's  |  ISLAIB
+<animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="0.8s" fill="freeze"/></text>
+<text x="48" y="196" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#94a3b8" opacity="0">Testing hypotheses until the data confesses.
+<animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.8s" fill="freeze"/></text>
+</svg>
